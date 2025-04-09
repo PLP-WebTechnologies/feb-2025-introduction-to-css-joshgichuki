@@ -1,0 +1,33 @@
+/* Selector 1: Styling the body */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f9;
+    margin: 0;
+    padding: 0;
+}
+
+/* Selector 2: Styling an image */
+img {
+    border: 2px solid #333;
+    border-radius: 10px;
+    margin: 20px;
+    max-width: 100%;
+}
+
+/* Selector 3: Styling a class */
+.card {
+    background-color: #fff;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    padding: 20px;
+    margin: 20px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+/* Styling an ID */
+#header {
+    font-size: 2rem;
+    color: #333;
+    text-align: center;
+    margin: 20px 0;
+}
